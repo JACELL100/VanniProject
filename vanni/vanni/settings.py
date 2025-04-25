@@ -123,4 +123,3 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-GEMINI_API_KEY = 'AIzaSyBx5oCo724GNVRC5prKOwgYsb7miLnIjO4'
